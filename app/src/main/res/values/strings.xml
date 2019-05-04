@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android101Test</string>
+    <string name="no_data">No data, pul to refresh</string>
+</resources>
